@@ -1,0 +1,10 @@
+#Header{
+    backdrop-filter: blur(100px); /* Blur effekti */
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Qo'shimcha effekt uchun soya */
+    margin-bottom: 18vh;
+    
+}
+#iconlar{
+    font-weight: bold;
+}
